@@ -1,0 +1,5 @@
+2022-04-28
+TestHotel1:10
+PersonONE;2022-04-28
+TestHotel2:5
+PersonTWO;2022-04-28
